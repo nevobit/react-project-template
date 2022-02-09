@@ -2,3 +2,24 @@ Esta es una solucion completa, un marco para crear aplicacion web de todos los t
 
 
 ## Real Vision React Template
+
+Esta es una plantilla de proyecto para aplicaciones de React.
+
+Para crear un nuevo proyecto basa en esta plantilla use:
+
+### Get started
+
+Install the dependenciers
+
+```
+    cd react-project-template
+    npm install
+
+```
+
+Run project
+
+```
+    npm start
+
+```
