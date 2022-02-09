@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 62.5%;
+}
+
 body,
 h1,
 h2,
@@ -31,11 +35,16 @@ body{
     text-rendering: optimizeSpeed;
     min-height: 100vh;
     font-family: var(--font);
+    font-size: 1.6rem;
 }
 
 a:not([class]) {
     text-decoration-skip-ink: auto;
-  }
+}
+
+a{
+    text-decoration: none;
+}
 
 img,
 picture{
@@ -49,6 +58,12 @@ textarea,
 select{
     font: inherit;
 }
+
+button,
+select{
+    cursor: pointer;
+}
+
 
 @media (prefers-reduced-motion: reduce){
     html:focus-within {
