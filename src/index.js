@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './styles/variables.css'
 import './styles/main.css'
+import './styles/general.css'
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 
