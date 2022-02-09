@@ -1,6 +1,6 @@
 This is a complete solution, a framework to create a web application of all sizes, with a beautiful development experience and flexible routing based on file systems and the FLUX design pattern.
 
-## Real Vision React Template
+## Real Vision React Template PWA
 
 This is a project template for React apps.
 
